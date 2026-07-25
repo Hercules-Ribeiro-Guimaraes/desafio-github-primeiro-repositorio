@@ -1,0 +1,6 @@
+### Link para Dowoload do Git
+
+[Baixar Agora](https://git-scm.com/install/)
+
+**O Git Bash é um terminal otimizado do Git.**
+
